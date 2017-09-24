@@ -1,6 +1,6 @@
 /**
  *
- * Esra'a Saleh, 101014397, 2016-07-23
+ * Esra'a Saleh, 2016-07-23
  * This class represents a deck in the Game class. It allows for a deck to decrease in size, to be sorted, to peek and to shuffle..
  * Compilation and usage instructions: Dr Java for compilation.
  * Examples: not applicable, not a program.
