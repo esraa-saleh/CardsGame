@@ -1,6 +1,6 @@
 /**
  *
- * Esra'a Saleh, 101014397, 2016-07-23
+ * Esra'a Saleh, 2016-07-23
  * This class represents a card in the Game class. It allows for a card to have a suit and a rank.
  * Compilation and usage instructions: Dr Java for compilation.
  * Examples:
