@@ -1,5 +1,5 @@
 /**
- * Esra'a Saleh, 101014397, 2016-07-23
+ * Esra'a Saleh,  2016-07-23
  * This class represents a hand or a player (basically cards of player) in the Game class. It allows for a player to play and get cards from the deck
  * or sort their cards. It also allows for changing the suit when an 8 is played.
  * Compilation and usage instructions: Dr Java for compilation.
