@@ -40,14 +40,14 @@ public class Hand implements HandActions {
     }
    return null;
   }
-  //================================================================================================================
+  
 
   /* adds one or more cards to the current hand
    * (given by the input argument) and
    * possibly discards one or more cards from the
    * hand (returned)
    */
-//===============================================================WORKS============================
+
   public Card[] getCard(Card[] cards){
     return this.addCards(cards);
     //puts cards in handcards
@@ -95,8 +95,8 @@ public class Hand implements HandActions {
 
 
 
-//================================================================================================================
-//
+
+
 //  /* returns an array of all cards in the current hand */
   public Card[] displayHand(){return this.handCards;}
 
@@ -107,12 +107,12 @@ public class Hand implements HandActions {
     * hearts next, spades next and jokers last. Each suit
     * is also sorted as described in the Cards problem)
     */
-    //==========================================================WORKS
+   
   public Card[] sortHand(){
     Arrays.sort(this.handCards);
     return this.handCards;
   }
-//================================================================WORKS
+
   /* allows user to pass a message to the game */
   public String message(String question){
     System.out.println(question);
