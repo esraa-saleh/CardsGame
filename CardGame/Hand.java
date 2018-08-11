@@ -23,7 +23,7 @@ public class Hand implements HandActions {
     * such that the card is a valid card in the game
     * based on the provided pile of cards
     */
-    //THIS WORKS =================================================TESTED EXTENSIVELY=================================
+   
 
     for(int i=0; i<this.handCards.length;i++){
       int suitStrength = Arrays.asList(Card.SUITS).indexOf(this.handCards[i].getSuit());
